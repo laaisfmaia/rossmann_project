@@ -1,6 +1,8 @@
-# rossmann_project
+# Previsão de vendas de um conjunto de lojas farmacêuticas 
 
-
+<div align="center">
+ <img height="400em" src="[https://github.com/laaisfmaia/webscraping_HM_Star_Jeans/blob/main/modulos/Fabricas-de-jeans-em-Rio-do-Sul.jpg](https://github.com/laaisfmaia/rossmann_project/blob/main/foto_capa.png)">
+</div>
 
 ## 1. Objetivo do Projeto
 
