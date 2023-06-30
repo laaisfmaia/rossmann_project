@@ -1,7 +1,7 @@
 # Previsão de vendas de um conjunto de lojas farmacêuticas 
 
 <div align="center">
- <img height="400em" src="https://github.com/laaisfmaia/webscraping_HM_Star_Jeans/blob/main/modulos/Fabricas-de-jeans-em-Rio-do-Sul.jpg">
+ <img height="400em" src="https://github.com/laaisfmaia/rossmann_project/blob/main/foto_capa.png">
 </div>
 
 ## 1. Objetivo do Projeto
@@ -18,33 +18,21 @@ No projetado foi usado o método CRISP de desenvolvimento, que é um método cí
  <img height="400em" src="https://github.com/laaisfmaia/rossmann_project/blob/main/crisp.png">
 </div>
 
-## 2. Questão de negócio
+## 3. Formato da solução
+
+Foi desenvolvido um bot no Telegram que ao receber uma mensagem com o código da loja, faz uma consulta ao algoritmo treinado via API e retorna em tempo real a previsão de faturamento das próximas 6 semanas dessa loja. 
 
 
-
-## 3. Premissas do negócio
-
-
-## 4. Planejamento da solução
+## 4. Resultados Financeiros
 
 
+## 5. Próximos passos
 
-## 5. Principais Insights
+- Fazer um outro ciclo CRISP a fim de melhorar a acurácia do modelo.
+- Melhorar o bot do telegram:
+       - deixando o bot mais interativo de modo a ficar mais intuitivo; 
+       - possibilitar a opção de gerar gráficos comparativos com o faturamento de algumas lojas escolhidas. 
 
+## 6. Extra
 
-
-## 6. Resultados financeiros
-
-
-## 7. Conclusão
-
-
-
-## 8. Próximos passos
-
-
-
-## 9. Extra
-
-
-
+- Para acessar o código completo [clique aqui](https://github.com/laaisfmaia/rossmann_project/blob/main/projeto_completo.ipynb)
