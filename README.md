@@ -38,6 +38,9 @@ As etapas do projeto constituem em:
 9. Treinar o algoritmo usando cross-validation. Foram usados os algoritmos de Linear Regression, Linear Regression Regularized (Lasso), Random Forest Regressor e XGBoost Regressor a fim de escolher o algoritmo com a melhor performance;
 10. Fazer o fine tunning usando a técnica de random search;
 11. Por fim, calcular os erros MAE, RMSE, MAPE e MPE e calcular o retorno financeiro do algoritmo.
+12. Publicar o modelo em produção;
+13. Criar o bot no telegram que consulta a API do algoritmo treinado e retorna a previsão de faturamento das lojas;
+14. Fazer um novo ciclo do projeto fazendo as melhorias necessárias. 
 
 ## 4. Os 3 principais insights
 
