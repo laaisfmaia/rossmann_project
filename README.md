@@ -51,10 +51,13 @@ Foi desenvolvido um bot no Telegram que ao receber uma mensagem com o código da
 
 
 ## 6. Resultados financeiros
+- Redução do erro médio da previsão de 21% para 11% em média. 
+- Além disso, ter uma previsão assertiva das vendas acarreta em outros benefícios financeiros como melhor gestão de estoque, contratação otimizada de funcionários, melhor margem para negociar com fornecedores, entre outros benefícios.  
 
 
 ## 7. Conclusão
 
+O objetivo do projeto de prever o faturamento das lojas nas próximas 6 semanas foi atingido, resolvendo o problema de determinar o valor que pode ser investido para a reforma de cada loja. 
 
 ## 8. Próximos passos
  
