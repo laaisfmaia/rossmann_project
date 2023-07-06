@@ -73,6 +73,9 @@ As etapas do projeto constituem em:
 
 Foi desenvolvido um bot no Telegram que ao receber uma mensagem com o código da loja, faz uma consulta ao algoritmo treinado via API e retorna em tempo real a previsão de faturamento das próximas 6 semanas dessa loja. Esse bot fica disponível 24/7 já que foi hospedado na nuvem. 
 
+<div align="center">
+ <img height="300em" src="https://github.com/laaisfmaia/rossmann_project/blob/main/imagens/bot_teleg.png">
+</div>
 
 ## 6. Resultados financeiros
 - Redução do erro médio da previsão de 21% para 11% em média. 
