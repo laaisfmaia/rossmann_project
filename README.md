@@ -44,6 +44,30 @@ As etapas do projeto constituem em:
 
 ## 4. Os 3 principais insights
 
+**Hipótese 1:** Lojas abertas durante o natal vendem mais.
+  - **Falso:** Lojas abertas durante o natal vendem menos
+  - **Insight de negócio:** No feriado de natal as vendas são bem menores comparadas a outros feriados como os feriados públicos e a páscoa. O aumento das vendas nos feriados públicos pode ser em decorrência da quantidade de feriados, sendo mais dias é natural que o volume de vendas seja maior. Mas comparando diretamente com a páscoa, no natal as vendas são menores, sabendo disso é possível fazer um roteamento dos funcionários nas datas comemorativas. 
+
+<div align="center">
+ <img height="300em" src="https://github.com/laaisfmaia/rossmann_project/blob/main/h1.png">
+</div>
+
+**Hipótese 2:** Lojas deveriam vender mais depois do dia 10 de cada mês.
+  - **Verdadeiro:** Lojas vendem mais depois do dia 10 de cada mês.
+  - **Insight de negócio:** É importante notar que a separação after/before_10_days não é homogênea porque tem mais dias depois do dia 10 do que antes. Mas notou-se que as vendas depois do dia 10 são realmente maiores. Sabendo disso, pode preparar o estoque para a segunda metade do mês e se for fazer alguma mudança nas lojas como uma reforma é preferível fazer no início do mês, onde as vendas são menores.
+
+
+<div align="center">
+ <img height="200em" src="https://github.com/laaisfmaia/rossmann_project/blob/main/h2.png">
+</div>
+
+**Hipótese 3:** Lojas com competidores mais próximos deveriam vender menos.
+  - **Falso:** Lojas com competidores mais próximos vendem mais
+  - **Insight de negócio:** Quando há outros concorrentes próximos ao invés de diminuir as vendas, uma vez que o cliente pode comprar com os outros concorrentes, as vendas aumentam. Isso pode acontecer porque um número maior de pessoas vão ao local, já que tem muitas opções, e mesmo que as vendas se distribuam entre as diferentes lojas no final o número de pessoas interessadas no produto acaba sendo maior. 
+
+<div align="center">
+ <img height="300em" src="https://github.com/laaisfmaia/rossmann_project/blob/main/h3.png">
+</div>
 
 ## 5. Formato da solução
 
