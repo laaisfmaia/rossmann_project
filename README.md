@@ -83,7 +83,7 @@ Foi desenvolvido um bot no Telegram que ao receber uma mensagem com o código da
 
 O objetivo do projeto de prever o faturamento das lojas nas próximas 6 semanas foi atingido, resolvendo o problema de determinar o valor que pode ser investido para a reforma de cada loja. 
 
-O algoritmo usado para a predição foi o XGBoost Regressor que apresentou um erro absoluto médio (MAE) de $761 (± 11%).
+O algoritmo usado para a predição foi o XGBoost Regressor que apresentou um erro absoluto médio (MAE) de R$761 (± 11%).
 
 ## 8. Próximos passos
  
